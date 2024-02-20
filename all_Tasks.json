@@ -1,0 +1,14 @@
+{
+    "allTasks": [
+        {
+            "task" : "Wake Up at 7.00AM",
+            "Completed" : false,
+            "Routine" : false
+        },
+        {
+            "task" : "GO TO GYM BY 7.15AM",
+            "Completed" : false,
+            "Routine" : false
+        }
+    ]
+}
